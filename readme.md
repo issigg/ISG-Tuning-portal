@@ -1,7 +1,7 @@
 # Welcome to the first ever open source tuning portal!
 
 I am currently working on a file portal system for myself, and thought that since I am already doing some of the work it I might aswell make it open source for the people who can't (yet) justify the big prices of the premade file portals currently availible. The portal is of course highly customizeable!
-![](mockup.png)
+![](img/mockup.png)
 
 
 # Description
