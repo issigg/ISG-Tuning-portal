@@ -22,10 +22,10 @@ This is a file portal system for tuning companies and individuals who offer tuni
 ## Screenshots
 
 Here are some screenshots of the interface currently.
-![](1.png)
-![](2.png)
-![](3.png)
-![](4.png)
+![](img/1.png)
+![](img/2.png)
+![](img/3.png)
+![](img/4.png)
 
 
 ## I need this or want to contribute!
